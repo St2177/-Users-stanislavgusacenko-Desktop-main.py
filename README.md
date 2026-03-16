@@ -1,1 +1,0 @@
-# -Users-stanislavgusacenko-Desktop-main.py
